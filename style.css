@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+#div-formulario {
+    justify-content: center;
+    align-items: center;
+
+}
+
+div form h1 {
+    margin-bottom: 20px;
+}
+
+.riscarTarefa {
+    text-decoration: line-through;
+}
